@@ -43,7 +43,7 @@ I'm **Rishi Bhargav NA**, a developer from India passionate about building thing
 
 * 🔭 Currently working on **[Bit Bot](https://github.com/rishi9731695815-crypto/BitBot)**
 * 🌱 Currently learning **BE**
-* 👯 Open to collaborating on **Bit Bot**
+* 👯 Looking to collaborate on **Bit Bot**
 * 💬 Ask me about **Full-Stack Development**
 * 🎨 Part-time **3D Modeler**
 * 🎬 Huge **cinephile**
@@ -77,6 +77,32 @@ I'm **Rishi Bhargav NA**, a developer from India passionate about building thing
 
 <div align="center">
 
+## 🛠️ Languages & Tools
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
+
+### ⚛️ Frameworks & Runtime
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+
+### 🗄️ Databases & DevOps
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,postman&theme=dark" />
+
+### 🎨 Creative Tools
+
+<img src="https://skillicons.dev/icons?i=blender&theme=dark" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
 ## 🚀 Featured Project
 
 <a href="https://github.com/rishi9731695815-crypto/BitBot">
@@ -92,32 +118,6 @@ I'm **Rishi Bhargav NA**, a developer from India passionate about building thing
 <a href="https://github.com/rishi9731695815-crypto/BitBot">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 🧊 Tech Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
-
-### Frameworks & Runtime
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,postman&theme=dark" />
-
-### Creative
-
-<img src="https://skillicons.dev/icons?i=blender&theme=dark" />
 
 </div>
 
@@ -147,9 +147,11 @@ I'm **Rishi Bhargav NA**, a developer from India passionate about building thing
 
 <br>
 
+---
+
 <div align="center">
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <a href="https://github.com/rishi9731695815-crypto">
 
@@ -201,6 +203,7 @@ I'm **Rishi Bhargav NA**, a developer from India passionate about building thing
 
 <table>
 <tr>
+
 <td align="center">
 
 ### 📁 Repositories
@@ -230,6 +233,7 @@ I'm **Rishi Bhargav NA**, a developer from India passionate about building thing
 </a>
 
 </td>
+
 </tr>
 </table>
 
